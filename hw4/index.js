@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'So fare thee well, poor devil of a Sub-Sub, whose commentator I am.',
   'example4':
        'The widow she cried over me, and called me a poor lost lamb, and she called me a lot of other names.'
 };
