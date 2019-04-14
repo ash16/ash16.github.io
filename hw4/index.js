@@ -14,7 +14,9 @@ const examples = {
   'example3':
       'So fare thee well, poor devil of a Sub-Sub, whose commentator I am.',
   'example4':
-       'The widow she cried over me, and called me a poor lost lamb, and she called me a lot of other names.'
+       'The widow she cried over me, and called me a poor lost lamb, and she called me a lot of other names.',
+  'example5':
+       'Asked me questions about the vessel, the time she left Marseilles, the course she had taken, and what was her cargo.'
 };
 
 function status(statusText) {
