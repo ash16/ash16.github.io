@@ -16,7 +16,7 @@ const examples = {
   'example4':
        'The widow she cried over me, and called me a poor lost lamb, and she called me a lot of other names.',
   'example5':
-       'Asked me questions about the vessel, the time she left Marseilles, the course she had taken, and what was her cargo.'
+       'As usual, a pilot put off immediately, and rounding the Château d’If, got on board the vessel between Cape Morgiou and Rion island.'
 };
 
 function status(statusText) {
